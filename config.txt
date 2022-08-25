@@ -1,0 +1,23 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxaac2143e3e46aac2",
+# 公众号appSecret
+"app_secret": "9296ded72468a9075deb259aa2e71033",
+# 模板消息id
+"template_id": "hLI9aY0M62MfoVYPR7gqz0NojeoPAD1ue__Z2GTTn18",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oOjCp6CQ6MFwa2G54PlKzn-Tsj-k"],
+
+# 信息配置
+# 所在省份
+"province": "河南",
+# 所在城市
+"city": "商丘",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "宝宝", "birthday": "r2000-06-01"},
+# 生日2
+"birthday2": {"name": "贝贝", "birthday": "r1999-08-18"},
+# 在一起的日子，格式同上
+"love_date": "2022-01-01"
+}
